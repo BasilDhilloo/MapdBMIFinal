@@ -13,6 +13,8 @@
 		EB287055276C18AC00A2D14D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EB287053276C18AC00A2D14D /* Main.storyboard */; };
 		EB287057276C18AE00A2D14D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB287056276C18AE00A2D14D /* Assets.xcassets */; };
 		EB28705A276C18AE00A2D14D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EB287058276C18AE00A2D14D /* LaunchScreen.storyboard */; };
+		EB287062276C1AAF00A2D14D /* health.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = EB287061276C1AAE00A2D14D /* health.jpeg */; };
+		EB287064276C1EA300A2D14D /* User-red-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = EB287063276C1EA300A2D14D /* User-red-icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		EB287056276C18AE00A2D14D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EB287059276C18AE00A2D14D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EB28705B276C18AE00A2D14D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EB287061276C1AAE00A2D14D /* health.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = health.jpeg; path = ../../../../../../../Downloads/health.jpeg; sourceTree = "<group>"; };
+		EB287063276C1EA300A2D14D /* User-red-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "User-red-icon.png"; path = "../../../../../../../Downloads/User-red-icon.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,9 +62,11 @@
 			children = (
 				EB28704D276C18AC00A2D14D /* AppDelegate.swift */,
 				EB28704F276C18AC00A2D14D /* SceneDelegate.swift */,
+				EB287063276C1EA300A2D14D /* User-red-icon.png */,
 				EB287051276C18AC00A2D14D /* ViewController.swift */,
 				EB287053276C18AC00A2D14D /* Main.storyboard */,
 				EB287056276C18AE00A2D14D /* Assets.xcassets */,
+				EB287061276C1AAE00A2D14D /* health.jpeg */,
 				EB287058276C18AE00A2D14D /* LaunchScreen.storyboard */,
 				EB28705B276C18AE00A2D14D /* Info.plist */,
 			);
@@ -126,7 +132,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				EB28705A276C18AE00A2D14D /* LaunchScreen.storyboard in Resources */,
+				EB287062276C1AAF00A2D14D /* health.jpeg in Resources */,
 				EB287057276C18AE00A2D14D /* Assets.xcassets in Resources */,
+				EB287064276C1EA300A2D14D /* User-red-icon.png in Resources */,
 				EB287055276C18AC00A2D14D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
