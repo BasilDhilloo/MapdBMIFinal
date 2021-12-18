@@ -42,7 +42,7 @@ class ViewController: UIViewController {
         
         let heightsquare = height*height
         
-         
+        //BMI Method
         var bmi: Float =
         weight/heightsquare
         self.BMI.text = "BMI \(self.Name.text!), Your BMI is \(String(bmi))"
